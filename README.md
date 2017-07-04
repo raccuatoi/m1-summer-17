@@ -1,2 +1,2 @@
-# m2-summer-17
-Repo associated with Module 2 Assesment on Writing Professional Code, summer 2017.
+# m1-summer-17
+Repo associated with Module 1 Assesment on Writing Professional Code, summer 2017.
